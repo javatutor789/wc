@@ -228,4 +228,4 @@ with right:
     if not top.empty:
         st.bar_chart(top.set_index("word"), horizontal=True, color="#a855f7")
 
-st.caption("Made with Streamlit · wordcloud · Pillow")
+st.caption("Made with Streamlit · wordcloud · Pillow - Python")
