@@ -47,6 +47,7 @@ st.markdown(
     <div class="hero">
         <h1>☁️ Word Cloud Studio</h1>
         <p>Upload a text file, tweak the style, and watch your words bloom.</p>
+        <p> RIU
     </div>
     """,
     unsafe_allow_html=True,
